@@ -1,0 +1,15 @@
+# PANDAS
+
+I learned about pandas, how it works, and its application in data analysis, which includes series, data frames and their related functions. 
+
+Resource used: https://youtu.be/E9WGC0SLPVs?si=yrzPBON1ay1TQ3OP
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# MACHINE LEARNING
+
+==> Models: Linear Regression, Gradient Descent, Logistic Regression, Decision Trees, Support Vector Machine, Random Forest, K Nearest Neighbours, K Means Clustering, Naive Bayes
+==> Methods: Dummy Variables, One Hot Encoding, K fold Cross Validation, Hyper Parameter Tuning, L1 and L2 Regularisation, Principal Component Analysis, Bagging
+
+Resource used: https://www.youtube.com/watch?v=UrsmFxEIp5k
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
