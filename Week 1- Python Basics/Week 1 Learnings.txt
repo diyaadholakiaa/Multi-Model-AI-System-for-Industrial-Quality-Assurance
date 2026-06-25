@@ -9,6 +9,7 @@
  - Boolean Operators
  - Nested loops
  - Dictionaries
+ - Made a tic tac toe game implementing all these
 
 Resource used: https://futurecoder.io/
 
