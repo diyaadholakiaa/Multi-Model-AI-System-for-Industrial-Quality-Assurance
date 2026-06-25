@@ -1,0 +1,23 @@
+# PYTHON
+
+ - Strings
+ - Variables
+ - For loops
+ - If statements
+ - Lists
+ - Functions
+ - Boolean Operators
+ - Nested loops
+ - Dictionaries
+
+Resource used: https://futurecoder.io/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# INTRO TO ML
+
+I learned what machine learning is and its types (Supervised, Unsupervised and Reinforcement Learning)
+
+Resource used: https://www.youtube.com/watch?v=ukzFI9rgwfU
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
