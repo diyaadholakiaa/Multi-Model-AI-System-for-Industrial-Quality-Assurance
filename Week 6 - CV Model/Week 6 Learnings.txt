@@ -1,0 +1,7 @@
+Trained YOLOv8 model on an existing dataset with the Kaggle platform and achieved the following metrics:
+- precision(B)     0.91585
+- recall(B)        0.66617
+- mAP50(B)         0.75543
+- mAP50-95(B)      0.47127
+
+Dataset used: https://www.kaggle.com/datasets/zymzym/neu-yolo
