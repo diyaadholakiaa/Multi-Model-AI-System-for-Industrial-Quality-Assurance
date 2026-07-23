@@ -1,0 +1,17 @@
+# Exploratory Data Analysis (EDA)
+- Understanding the Dataset
+- Handling Missing Data
+- Data Statistics
+- Data Visualisation
+- Managing Outliers
+- Feature Engineering
+- Hypothesis Testing
+
+Resource Used: https://app.notion.com/Exploratory-Data-Analysis-EDA-in-Python-Cheat-Sheet-56340a36bc7a82fb9e42016bd5ff4264?source=copy_link
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Practical Application
+- Used dataset of titanic survivors to apply all the learned knowledge on Data Cleaning and Analysis
+
+Resource Used: https://colab.research.google.com/drive/1Uv1W59iKGwPFrqKas1mJnnAYv72_RcnA?usp=sharing
