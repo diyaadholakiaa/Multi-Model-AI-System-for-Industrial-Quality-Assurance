@@ -1,0 +1,13 @@
+# Basics of LLM
+- LLM training
+- LLM dreams
+- How LLMs work
+- Finetuning
+- Comparisions, finetuning, RLHF
+- Scaling
+- LLMs using different tools
+- LLM customisation
+- Self improvemrnt
+- Jailbreaks, Prompt Injections, Data Poisoning
+- Future of LLMs
+- How to use an existing LLM for our own purpose using and API code
