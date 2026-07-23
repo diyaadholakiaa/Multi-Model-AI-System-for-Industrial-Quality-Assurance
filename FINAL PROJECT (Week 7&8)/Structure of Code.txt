@@ -1,0 +1,44 @@
+# Project Structure
+
+Industrial_Quality_Assurance_System/
+	│── app.py
+	│── best.pt
+	│── uploads/ 
+	└── utils/ 
+		│── detector.py 
+		│── llm.py 
+		│── prompts.py
+
+# Components
+## app.py 
+The main Streamlit application. 
+Responsibilities: 
+- User interface 
+- Input handling 
+- Image display 
+- Running YOLO detection 
+- Calling the LLM 
+- Displaying the inspection report
+
+## detector.py 
+Loads the trained YOLOv8 model and performs defect detection. 
+Outputs: 
+- Bounding boxes 
+- Class labels 
+- Confidence scores
+
+## llm.py 
+Communicates with Llama 3.2 through Ollama. Responsibilities:
+- Build prompts 
+- Send prompts to the LLM 
+- Receive generated inspection reports
+
+## prompts.py 
+Contains the prompt template used by the LLM. The prompt defines: 
+- Report structure 
+- Required sections 
+- Professional formatting 
+- Quality assurance recommendations
+
+## uploads
+temporarily stores the input pictures
